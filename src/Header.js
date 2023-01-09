@@ -20,7 +20,7 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="https://clipartmag.com/images/online-shopping-png-clipart-26.png"
+          src="https://i.pinimg.com/564x/b2/29/f0/b229f05e40d4c8b5862a6630044a76d6.jpg"
         />
       </Link>
 
